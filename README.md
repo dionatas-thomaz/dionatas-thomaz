@@ -12,4 +12,4 @@
 ##           cursando faculdade de Analises e Desenvolvimento de Sistemas👾
 
 
-                                                       SUA MAE E SOLTEIRA?
+                                                      
