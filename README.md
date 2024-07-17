@@ -10,6 +10,9 @@
 <br>
 <div style="display: flex;"><br/>
 <img align="center" alt="rafa-C"height="28"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
 <!-- <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logotipo-html">
 <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="logotipo-html"> -->
  </div></br/>
