@@ -23,7 +23,9 @@
  </div></br/>
           
 ##
-                                                              Tecnologias 
+  <h1 align="center">
+    Tecnologias 💻
+  </h1>
 <div style="display: flex;"><br/>
 <img [align="center"alt="c"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)/>
 <img height="28"width="40" src="https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java"/>
@@ -31,9 +33,9 @@
 
 </div></br/>
 
-
-                                     Cursando faculdade de Analises e Desenvolvimento de Sistemas
-
+<h1 align="center">
+    Cursando faculdade de Analises e Desenvolvimento de Sistemas🎮
+</h1>
 <!-- snake-->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dionatas-thomaz/dionatas-thomaz/output/github-contribution-grid-snake-dark.svg">
