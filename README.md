@@ -18,7 +18,7 @@
  </div></br/>
           
 ##
-## Tecnologias 
+                                                              Tecnologias 
 <div style="display: flex;"><br/>
 <!--<img height="28"width="40" src="https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java"/>-->
 <img align="center"alt="c"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -26,7 +26,7 @@
 </div></br/>
 
 
-##           Cursando faculdade de Analises e Desenvolvimento de Sistemas
+                                     Cursando faculdade de Analises e Desenvolvimento de Sistemas
 
 
 <div align="center">                                            
