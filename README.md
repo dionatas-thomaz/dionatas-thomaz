@@ -34,7 +34,7 @@
 </div></br/>
 
 <h1 align="center">
-  Cursando faculdade de Analises e Desenvolvimento de Sistemas🎮
+  Cursando Analises e Desenvolvimento de Sistemas 🎮
 </h1>
 <!-- snake-->
 <picture align="center">
