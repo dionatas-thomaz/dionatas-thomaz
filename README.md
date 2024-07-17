@@ -35,4 +35,4 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </div>
 
-![Snake animation](https://github.com/dionatas-thomaz/dionatas-thomaz/blob/output/github-contribution-grid-snake.svg)
+
