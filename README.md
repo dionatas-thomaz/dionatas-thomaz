@@ -1,8 +1,16 @@
 <!-- computaria + gatinho-->
-<h1 align="center">
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Cambria&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=MESTRE+DA+COMPUTARIA+🦄;" /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-</h1>
+</div>
 
+ ## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando  Analises e Desenvolvimento de Sistemas 🎮 na faculdade IFTM.
+- 💼 Trabalhando como Desemvolvedor na Success Sistemas.
+- 🌱 Aprendendo mais sobre Java.
+  
+  <br>
 <!-- status-->
 
 <div style="display: flex;">
@@ -38,9 +46,9 @@
 <img height="20" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </div></br/>
 
-<h1 align="center">
+<!--<h1 align="center">
   Cursando Analises e Desenvolvimento de Sistemas 🎮
-</h1>
+</h1>-->
 <!-- snake-->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dionatas-thomaz/dionatas-thomaz/output/github-contribution-grid-snake-dark.svg">
