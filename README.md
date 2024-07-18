@@ -7,7 +7,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando  Analises e Desenvolvimento de Sistemas 🎮 na faculdade IFTM.
-- 💼 Trabalhando como Desemvolvedor na Success Sistemas.
+- 💼 Trabalhando como Desenvolvedor na Success Sistemas.
 - 🌱 Aprendendo mais sobre Java.
   
   <br>
@@ -22,9 +22,9 @@
 <br>
 
 <!--tecnologias icone-->
- <h1 align="center">
+ <h2 align="center">
     Tecnologias 💻
-  </h1>
+  </h2>
 <div style="display: flex; ">
 <img align="center" alt="rafa-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center"height="28"width="40" src="https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java"/>
@@ -35,14 +35,14 @@
     
  </div>
  </br/>
-  <h1 align="center">
+  <h2 align="center">
    DevOps
-  </h1>
+  </h2>
 <div style="display: flex;">
   <img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/>
 <img  src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
-<img  src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+<img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img height="20" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </div></br/>
 
