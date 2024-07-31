@@ -59,5 +59,9 @@
 <!-- raposa gif-->
 <div align="right">                                            
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
+</div>
+<br>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Cambria&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=keep+going+even+if+you+are+scared;" /> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </div>
