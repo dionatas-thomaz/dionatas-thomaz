@@ -63,5 +63,5 @@
 </div>
 <br>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Cambria&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=keep+going+even+if+you+are+scared;" /> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Cambria&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=às+vezes+0+às+vezes+1;" /> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </div>
