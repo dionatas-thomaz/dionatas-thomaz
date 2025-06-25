@@ -22,7 +22,7 @@
 <br>
 
 <!--tecnologias icone-->
- <h2 align="center">
+ <h2 align="left">
     Tecnologias 💻
   </h2>
 <div style="display: flex; ">
@@ -35,7 +35,14 @@
     
  </div>
  </br/>
-  <h2 align="center">
+ <h2 align="left">
+    DataBase
+ </h2>
+
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+  <h2 align="left">
    DevOps
   </h2>
 <div style="display: flex;">
