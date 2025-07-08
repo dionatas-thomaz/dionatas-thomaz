@@ -7,7 +7,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando  Analises e Desenvolvimento de Sistemas 🎮 na faculdade IFTM.
-- 💼 Trabalhando como Desenvolvedor na ****** Sistemas.
+- 💼 Trabalhando como Desenvolvedor desktop na Success Sistemas.
 - 🌱 Aprendendo mais sobre Java.
   
   <br>
