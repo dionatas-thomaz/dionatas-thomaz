@@ -42,9 +42,7 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  <h2 align="left">
-   DevOps
-  </h2>
+
 <div style="display: flex;">
   <img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/>
