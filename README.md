@@ -26,13 +26,11 @@
     Tecnologias 💻
   </h2>
 <div style="display: flex; ">
-<img align="center" alt="rafa-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img align="center"height="60"width="55" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img align="center" alt="Rafa-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="Rafa-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+FrontEnd:
+
+![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 <!-- <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logotipo-html">
 <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="logotipo-html"> -->
-    
  </div>
  </br/>
  <h2 align="left">
@@ -42,14 +40,14 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
+<!--
 <div style="display: flex;">
   <img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/>
 <img  src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
 <img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img height="20" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-</div></br/>
+</div></br/> -->
 
 <!--<h1 align="center">
   Cursando Analises e Desenvolvimento de Sistemas 🎮
@@ -70,3 +68,5 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Cambria&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=às+vezes+0+às+vezes+1;" /> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </div>
+
+![](https://komarev.com/ghpvc/?username=dionatas-thomaz)
