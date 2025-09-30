@@ -1,6 +1,6 @@
 <!-- computaroiaaa + gatinho-->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Cambria&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Editor+De+Lista+De+Dados+🦄;" /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Cambria&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Editor+De+Lista+De+Dados;" /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </div>
 
  ## Sobre mim
