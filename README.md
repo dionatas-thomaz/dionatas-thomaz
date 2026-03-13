@@ -6,7 +6,7 @@
  ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando  Analises e Desenvolvimento de Sistemas 🎮 na faculdade IFTM (5/6).
+- 🎓 Estudando  Analises e Desenvolvimento de Sistemas 🎮 na faculdade IFTM (6/6).
 - 💼 Trabalhando como Desenvolvedor desktop na Success Sistemas.
 - 🌱 Aprendendo mais sobre Angular.
   
